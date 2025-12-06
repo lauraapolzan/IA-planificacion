@@ -1,5 +1,3 @@
-## ------------------------------------------------
-
 ### INSTRUCCIONS WINDOWS PER EXECUTAR EL CODI
 Cambiar ext1 pel que sigui
 
